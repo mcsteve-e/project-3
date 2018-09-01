@@ -1,8 +1,8 @@
 '''
-        Author:  	McSteve Ezikeoha
-        Title:   	Hashmap
-        Date:    	May 10, 2018
-	Dscription: 	You will write a Python program that implements a dictionary by hash table.
+	Author:  	McSteve Ezikeoha
+	Title:   	Hashmap
+	Date:    	May 10, 2018
+	Description: 	You will write a Python program that implements a dictionary by hash table.
 			The conflict resolution method will be hashing with rehashing for collisions 
 			and then linear search in an overflow array.
 '''
